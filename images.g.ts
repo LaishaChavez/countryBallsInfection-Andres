@@ -164,25 +164,6 @@ f f f f f f f f f f f f f f f .
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 `;
-            case "image4":
-            case "Colombia left":return img`
-. . . . . . f f f f f . . . . . 
-. . . . . f e e e e e f . . . . 
-. . . . f e e e e e e e f . . . 
-. . f f f f f f f f f f f f f . 
-. . f 6 6 6 f 6 6 6 f 6 6 6 f . 
-. . f 8 8 6 f 8 8 6 f 8 8 6 f . 
-. . f f f f f f f f f f f f f . 
-. . . f 5 5 5 5 5 5 5 5 5 f . . 
-. . . f f f f 5 f f f 5 5 f . . 
-. . . f f 1 f 5 f 1 f 5 5 f . . 
-. . . f f f f 5 f f f 5 5 f . . 
-. . . f 8 8 8 8 8 8 8 8 8 f . . 
-. . . . f 2 2 2 2 2 2 2 f . . . 
-. . . . . f f f f f f f . . . . 
-. . . . . . . . . . . . . . . . 
-. . . . . . . . . . . . . . . . 
-`;
             case "image5":
             case "Colombia jump left":return img`
 . . . . . . . . . . . . . . . . 
@@ -200,25 +181,6 @@ f f f f f f f f f f f f f f f .
 . f 8 8 f . . . . . f . f . . . 
 . f 8 8 f . . . . . f . f . . . 
 . f f f f . . . f f . . . f f . 
-. . . . . . . . . . . . . . . . 
-`;
-            case "image6":
-            case "Colombia jump right":return img`
-. . . . . . . . . . . . . . . . 
-. . . f f f f f . . . . . . . . 
-. . f 5 5 5 5 5 f . . . . . . . 
-. f 5 5 5 5 5 5 5 f . . . . . . 
-. f 5 5 5 5 5 5 5 f . . . . . . 
-. f 5 5 f 5 5 f 5 f . f f f f . 
-. f 5 5 5 5 5 5 5 f . f 8 8 f . 
-. f 8 8 8 8 8 8 8 f . f 8 8 f . 
-. . f 2 2 2 2 2 f f . f f f f . 
-. . . f f f f f . f f f 8 8 f . 
-. . . . . . . . . f 5 f 8 8 f . 
-. . . f . f . . . f f f f f f . 
-. . . f . f . . . . . f 8 8 f . 
-. . . f . f . . . . . f 8 8 f . 
-. f f . . . f f . . . f f f f . 
 . . . . . . . . . . . . . . . . 
 `;
             case "image7":
@@ -274,6 +236,82 @@ f f f . f . . . . . . f . f f f
 . . . . . f 1 1 8 8 f . . . . . 
 . . . . . . f f f f . . . . . . 
 . . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image6":
+            case "Colombia jump right":return img`
+. . . . . . . . . . . . . . . . 
+. . . f f f f f . . . . . . . . 
+. . f 5 5 5 5 5 f . . . . . . . 
+. f 5 5 5 5 5 5 5 f . . . . . . 
+. f 5 5 5 5 5 5 5 f . . . . . . 
+. f 5 5 f 5 5 f 5 f . f f f f . 
+. f 5 5 5 5 5 5 5 f . f 8 8 f . 
+. f 8 8 8 8 8 8 8 f . f 8 8 f . 
+. . f 2 2 2 2 2 f f . f f f f . 
+. . . f f f f f . f f f 8 8 f . 
+. . . . . . . . . f 5 f 8 8 f . 
+. . . f . f . . . f f f f f f . 
+. . . f . f . . . . . f 8 8 f . 
+. . . f . f . . . . . f 8 8 f . 
+. f f . . . f f . . . f f f f . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image4":
+            case "Colombia left":return img`
+. . . . . . f f f f f . . . . . 
+. . . . . f e e e e e f . . . . 
+. . . . f e e e e e e e f . . . 
+. . f f f f f f f f f f f f f . 
+. . f 6 6 6 f 6 6 6 f 6 6 6 f . 
+. . f 8 8 6 f 8 8 6 f 8 8 6 f . 
+. . f f f f f f f f f f f f f . 
+. . . f 5 5 5 5 5 5 5 5 5 f . . 
+. . . f f f f 5 f f f 5 5 f . . 
+. . . f f 1 f 5 f 1 f 5 5 f . . 
+. . . f f f f 5 f f f 5 5 f . . 
+. . . f 8 8 8 8 8 8 8 8 8 f . . 
+. . . . f 2 2 2 2 2 2 2 f . . . 
+. . . . . f f f f f f f . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image10":
+            case "Colombia right":return img`
+. . . . . f f f f f . . . . . . 
+. . . . f e e e e e f . . . . . 
+. . . f e e e e e e e f . . . . 
+. f f f f f f f f f f f f f . . 
+. f 6 6 6 f 6 6 6 f 6 6 6 f . . 
+. f 6 8 8 f 6 8 8 f 6 8 8 f . . 
+. f f f f f f f f f f f f f . . 
+. . f 5 5 5 5 5 5 5 5 5 f . . . 
+. . f 5 5 f f f 5 f f f f . . . 
+. . f 5 5 f 1 f 5 f 1 f f . . . 
+. . f 5 5 f f f 5 f f f f . . . 
+. . f 8 8 8 8 8 8 8 8 8 f . . . 
+. . . f 2 2 2 2 2 2 2 f . . . . 
+. . . . f f f f f f f . . . . . 
+. . . . . . . . . . . . . . . . 
+. . . . . . . . . . . . . . . . 
+`;
+            case "image11":
+            case "Colombia fall right":return img`
+. . . . . . . . . . . . . . . . 
+. . . f f f f f . . . . . . . . 
+. . f 5 5 5 5 5 f . . . . . . . 
+. f 5 5 5 5 5 5 5 f . f f f f . 
+. f 5 5 5 5 5 5 5 f . f 8 8 f . 
+. f 5 5 f 5 5 f 5 f . f 8 8 f . 
+. f 5 5 5 5 5 5 5 f . f f f f . 
+. f 8 8 8 8 8 8 8 f f f 8 8 f . 
+. . f 2 2 2 2 2 f f 5 f 8 8 f . 
+. . . f f f f f . f f f f f f . 
+. . . f . f . . . . . f 8 8 f . 
+. . . f . f . . . . . f 8 8 f . 
+. f f . . . f f . . . f f f f . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 
 . . . . . . . . . . . . . . . . 

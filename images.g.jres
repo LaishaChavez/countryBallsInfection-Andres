@@ -14,20 +14,10 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Colombia idle"
     },
-    "image4": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAPD/DwAAAAAA8Ib///8AAAD/hl//jw8A8P5mXx+P8gDv/v9f/4/yAO/+hl9VhfIA7/6GX/+P8gDv/mZfH4/yAO/+/1//j/IA8P6GX1WF8gAA/4ZfVYUPAADwZv///wAAAPD/DwAAAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "Colombia left"
-    },
     "image5": {
         "data": "hwQQABAAAAAAAAAAAAAAAAAA8P////8PAADwiI/4iA8AAPCIj/iIDwAA8P////8PAAAAAPD1AAAA8P////8AAABfVYUPAAAA8FX1hfIAAA/wVVWF8gAAD/BVVYXy8P8A8FX1hfIAAADwVVWF8vD/AABfVYUPAAAPAPD//wAAAA8AAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Colombia jump left"
-    },
-    "image6": {
-        "data": "hwQQABAAAAAAAAAAAAAAAADw//8AAAAPAF9VhQ8AAA/wVVWF8vD/APBV9YXyAAAA8FVVhfLw/wDwVVWF8gAAD/BV9YXyAAAPAF9VhQ8AAAAA8P////8AAAAAAADw9QAAAADw/////w8AAPCIj/iIDwAA8IiP+IgPAADw/////w8AAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "Colombia jump right"
     },
     "image7": {
         "data": "hwQQABAAAAAAAAAA/w8AAAAAAABfDwAAAAAAAP8PAAAA8P8PAAAAAABfVfgA/wAP8FVVKA8A/w/wVVUvDwAAAPBVVSgPAAAA8FVVKA8AAADwVVUvDwAAAPBVVSgPAP8PAF9V+AD/AA8A8P8PAAAAAAAAAAD/DwAAAAAAAF8PAAAAAAAA/w8AAA==",
@@ -43,6 +33,26 @@
         "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAAAAAPDyAAAAAAAAj///AAAAAPDxLxIPAAAAAP8iL/EAAAAA8CIS8QAAAADwEYH4AAAAAPCBj/gAAAAAAB+BDwAAAAAA8P8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Ayudante panama"
+    },
+    "image6": {
+        "data": "hwQQABAAAAAAAAAAAAAAAADw//8AAAAPAF9VhQ8AAA/wVVWF8vD/APBV9YXyAAAA8FVVhfLw/wDwVVWF8gAAD/BV9YXyAAAPAF9VhQ8AAAAA8P////8AAAAAAADw9QAAAADw/////w8AAPCIj/iIDwAA8IiP+IgPAADw/////w8AAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Colombia jump right"
+    },
+    "image4": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAPD/DwAAAAAA8Ib///8AAAD/hl//jw8A8P5mXx+P8gDv/v9f/4/yAO/+hl9VhfIA7/6GX/+P8gDv/mZfH4/yAO/+/1//j/IA8P6GX1WF8gAA/4ZfVYUPAADwZv///wAAAPD/DwAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Colombia left"
+    },
+    "image10": {
+        "data": "hwQQABAAAAAAAAAAAAAAAADw/w8AAAAAAPBm////AAAA/4ZfVYUPAPD+hl9VhfIA7/7/X/+P8gDv/mZfH4/yAO/+hl//j/IA7/6GX1WF8gDv/v9f/4/yAPD+Zl8fj/IAAP+GX/+PDwAA8Ib///8AAADw/w8AAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Colombia right"
+    },
+    "image11": {
+        "data": "hwQQABAAAAAAAAAAAAAAAADw//8AAA8AAF9VhQ8ADwDwVVWF8v8AAPBV9YXyAAAA8FVVhfL/AADwVVWF8gAPAPBV9YXyAA8AAF9VhQ8AAAAA8P///wAAAAAAAPD1AAAAAPD/////DwAA8IiP+IgPAADwiI/4iA8AAPD/////DwAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Colombia fall right"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
