@@ -24,16 +24,6 @@
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Colombia jump idle"
     },
-    "image8": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//8AAAAAAABv9v8PAAAAAPD2VfgAAAAAAP/1KA8AAADw9uUoDwAAAPD2VS4PAAAAAP/1KA8AAADw9lX4AAAAAG/2/w8AAAAA//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "Ayudante ecuador"
-    },
-    "image9": {
-        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAAAAAPDyAAAAAAAAj///AAAAAPDxLxIPAAAAAP8iL/EAAAAA8CIS8QAAAADwEYH4AAAAAPCBj/gAAAAAAB+BDwAAAAAA8P8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-        "mimeType": "image/x-mkcd-f4",
-        "displayName": "Ayudante panama"
-    },
     "image6": {
         "data": "hwQQABAAAAAAAAAAAAAAAADw//8AAAAPAF9VhQ8AAA/wVVWF8vD/APBV9YXyAAAA8FVVhfLw/wDwVVWF8gAAD/BV9YXyAAAPAF9VhQ8AAAAA8P////8AAAAAAADw9QAAAADw/////w8AAPCIj/iIDwAA8IiP+IgPAADw/////w8AAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
@@ -53,6 +43,16 @@
         "data": "hwQQABAAAAAAAAAAAAAAAADw//8AAA8AAF9VhQ8ADwDwVVWF8v8AAPBV9YXyAAAA8FVVhfL/AADwVVWF8gAPAPBV9YXyAA8AAF9VhQ8AAAAA8P///wAAAAAAAPD1AAAAAPD/////DwAA8IiP+IgPAADwiI/4iA8AAPD/////DwAAAAAAAAAAAA==",
         "mimeType": "image/x-mkcd-f4",
         "displayName": "Colombia fall right"
+    },
+    "image8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//8AAAAAAABv9v8PAAAAAPD2VfgAAAAAAP/1KA8AAADw9uUoDwAAAPD2VS4PAAAAAP/1KA8AAADw9lX4AAAAAG/2/w8AAAAA//8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ayudante ecuador"
+    },
+    "image9": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAAAAAPDyAAAAAAAAj///AAAAAPDxLxIPAAAAAP8iL/EAAAAA8CIS8QAAAADwEYH4AAAAAPCBj/gAAAAAAB+BDwAAAAAA8P8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "Ayudante panama"
     },
     "*": {
         "mimeType": "image/x-mkcd-f4",
